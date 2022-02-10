@@ -138,7 +138,7 @@
     "ng-router-loader": "^2.1.0",
     "ng2-translate": "^5.0.0",
     "ngc-webpack": "^3.0.0",
-    "node-sass": "^4.5.3",
+    "node-sass": "^7.0.0",
     "normalize.css": "^7.0.0",
     "npm-run-all": "^4.0.2",
     "odata": "^0.3.3",
